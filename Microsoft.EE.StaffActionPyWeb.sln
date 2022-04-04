@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Microsoft.EE.StaffActionPyWeb", "Microsoft.EE.StaffActionPyWeb\Microsoft.EE.StaffActionPyWeb.pyproj", "{2F967DA2-C25D-4A76-A445-05E4BCCA7501}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{094CBA6F-99C6-4B78-A397-7CB8E4852627}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F967DA2-C25D-4A76-A445-05E4BCCA7501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F967DA2-C25D-4A76-A445-05E4BCCA7501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F967DA2-C25D-4A76-A445-05E4BCCA7501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F967DA2-C25D-4A76-A445-05E4BCCA7501}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2928FBA-ACE5-4509-B697-BA4E24EFB046}
+	EndGlobalSection
+EndGlobal
